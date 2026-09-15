@@ -1,0 +1,34 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build / packaging artifacts
+*.egg-info/
+build/
+dist/
+
+# OS junk
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+
+# Job CSVs and source files are deliberately NOT ignored - they are the
+# project's inputs and are meant to be public.
+
+# Claude Code local session config (machine-specific, not project data)
+.claude/

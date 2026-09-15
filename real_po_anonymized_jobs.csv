@@ -1,0 +1,5 @@
+job_id,po_id,due_date,quantity,underbase,colors,blank_color
+GA_TS_Indigo,PO-A,2026-08-06,216,White,SkyBlue;SunsetOrange;Cream;DarkNavy,HEATHER INDIGO
+GA_TS_MilGreen,PO-A,2026-08-06,168,White,SkyBlue;SunsetOrange;Cream;DarkNavy,HEATHER MILITARY GREEN
+GA_HD_Natural,PO-A,2026-08-06,168,White,SkyBlue;SunsetOrange;Cream;DarkNavy,HEATHER NATURAL
+GA_HD_Indigo,PO-A,2026-08-06,204,White,SkyBlue;SunsetOrange;Cream;DarkNavy,HEATHER INDIGO

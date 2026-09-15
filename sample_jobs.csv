@@ -1,0 +1,10 @@
+job_id,po_id,due_date,quantity,underbase,colors
+J1,PO1001,2026-09-05,480,White;Grey,Red;Navy;Black
+J2,PO1001,2026-09-05,240,White,Red;Navy
+J3,PO1002,2026-09-03,150,,Red;Blue
+J4,PO1002,2026-09-03,150,,Blue;Green
+J5,PO1003,2026-09-10,600,White,Purple;Orange;Yellow
+J6,PO1003,2026-09-10,300,,Purple;Orange
+J7,PO1004,2026-08-30,1000,White;Grey,Black;Silver;Gold;Bronze;Copper;Steel
+J8,PO1005,2026-08-26,200,White;Grey,C1;C2;C3;C4;C5;C6;C7;C8;C9;C10;C11
+J9,PO1006,2026-08-25,5000,,Teal

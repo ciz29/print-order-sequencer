@@ -1,0 +1,21 @@
+job_id,po_id,due_date,quantity,underbase,colors
+K1,POA,2026-08-20,300,White,Red;Blue;Green
+K2,POA,2026-08-20,150,White,Red;Blue
+K3,POB,2026-08-25,500,White;Grey,Black;Silver
+K4,POC,2026-08-27,220,,red;blue
+K5,POC,2026-08-27,180,White,Purple;Pink;Teal;Cyan
+K6,POD,2026-08-28,90,White;Grey,Black;Silver;Gold
+K7,POD,2026-08-28,60,White;Grey,Black;Silver
+K8,POE,2026-09-01,1200,,Navy
+K9,POE,2026-09-01,800,,Navy
+K10,POF,2026-08-26,50,White,Orange;Yellow;Pink;Cyan
+K11,POF,2026-08-26,50,White,Orange;Yellow;Pink;Cyan;Lime
+K12,POG,2026-09-05,400,White;Grey,C1;C2;C3;C4;C5;C6;C7;C8;C9;C10
+K13,POH,2026-09-05,400,White;Grey,C1;C2;C3;C4;C5;C6;C7;C8;C9;C10;C11
+K14,POI,2026-08-25,100,,Maroon
+K15,POI,2026-08-25,100,,Maroon;Beige
+K16,POJ,2026-09-10,50,,Beige
+K17,POK,2026-08-31,700,White,Emerald;Turquoise;Coral
+K18,POL,2026-08-24,90,White,Coral;Turquoise
+K19,POM,2026-09-02,60,,
+K20,PON,2026-08-25,10, White , Red ; Blue

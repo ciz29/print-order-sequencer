@@ -1,0 +1,3 @@
+job_id,po_id,due_date,quantity,underbase,colors,blank_color,underbase_override
+RF_Incomplete,PO1008,2026-09-05,480,,Red;Navy;Black,BLACK,force_on
+RF_Contradiction,PO1008,2026-09-08,240,White,Red;Navy;Black,NAVY,force_off

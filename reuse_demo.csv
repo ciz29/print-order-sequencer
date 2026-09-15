@@ -1,0 +1,3 @@
+job_id,po_id,due_date,quantity,underbase,colors,blank_color,underbase_override
+RD_First,PO1007,2026-09-05,200,White,C1;C2;C3;C4;C5;C6;C7;C8;C9;C10;C11,BLACK,
+RD_Second,PO1007,2026-09-06,200,White,D1;D2;D3;D4;D5;D6;D7;D8;D9;D10;D11,BLACK,
