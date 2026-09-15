@@ -188,7 +188,12 @@ job is next, not the whole queue at once. This is the exact reason Phase
   but the PO reads `HTR NATURAL` and the style guide offers only `HEATHER
   NATURAL` in the SP2200 hoodie, so it was corrected. The other two tokens
   (`INDIGO`, `MILGREEN`) had no exact key at all and were resolved the same
-  way. Lesson worth keeping: the job-ID tokens are lossy abbreviations and
+  way. **Note for anyone reading the published file:** the job IDs that
+  carried those color tokens were genericized to `J1`–`J4` before
+  publication, since the token also encoded the customer's design name. The
+  tokens the story above refers to are no longer visible in the CSV — the
+  narrative is kept because the lesson is worth keeping.
+  Lesson worth keeping: the job-ID tokens are lossy abbreviations and
   are not a safe source for color identity, even when one happens to match a
   real key exactly.
 
