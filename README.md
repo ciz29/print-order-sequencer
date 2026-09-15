@@ -223,6 +223,7 @@ What it is **not**, and does not claim to be:
 | `test_cp_sat.py` | test suite: brute-force optimality checks, edge cases, regressions |
 | `underbase_rules.py` | retired luminance-based inference, kept for reference |
 | `PROJECT_BRIEF.md` | development history: decisions, bugs found, open questions |
+| `LICENSE` | MIT license |
 
 `PROJECT_BRIEF.md` is the working record of how the project got here —
 including the modelling bugs found during testing and why each was fixed.
